@@ -3,7 +3,7 @@
  * Author: caitlinswafford
  *
  * Created on March 4, 2015, 8:37 AM
- *      Purpose: 
+ *      Purpose: Create Computer Science Initials 
  */
 
 #include <iostream>
