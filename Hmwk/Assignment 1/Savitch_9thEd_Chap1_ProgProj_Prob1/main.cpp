@@ -18,7 +18,7 @@ using namespace std;//I/O System Library using namespace
 //Execution Begins Here!!
 
 int main(int argc, char** argv) {
-    //Delcare Variables
+    //Declare Variables
     float x,y,sum,product;
     //Prompt for x input
     cout<<"Input first values"<<endl;
