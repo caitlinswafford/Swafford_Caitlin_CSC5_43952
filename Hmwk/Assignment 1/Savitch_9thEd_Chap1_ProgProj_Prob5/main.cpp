@@ -19,7 +19,7 @@ using namespace std;
 //Execution Begins Here!!
 
 int main(int argc, char** argv) {
- //D//Declare Variables
+ //Declare Variables
     char x='x';
     //Output Big C
     cout<<"    "<<x<<x<<x<<x<<endl;
