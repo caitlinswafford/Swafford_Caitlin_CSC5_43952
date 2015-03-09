@@ -21,7 +21,7 @@ const int dime=10;
 //Execution Begins Here!!
 
 int main(int argc, char** argv) {
-    //Delcare Variables
+    //Declare Variables
     int total,x,y,z,qvalue,dvalue,nvalue
     //Prompt Input
     cout<<"How many quarter(s)?"<<endl;
